@@ -332,7 +332,7 @@ h6 {
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750px) {
     .cards {
         display: flex;
         flex-direction: column;
